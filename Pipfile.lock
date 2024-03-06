@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "8aa7b223028d1ad1ad5953d45ac4d380a678241cd4817e031b31c4522c2d8380"
+            "sha256": "5228f97893e3877c7268b9431202b88dab7b67fa442945d38898bddbc506b212"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -145,6 +145,15 @@
             ],
             "markers": "python_version >= '3.8'",
             "version": "==2024.2.0"
+        },
+        "graphviz": {
+            "hashes": [
+                "sha256:587c58a223b51611c0cf461132da386edd896a029524ca61a1462b880bf97977",
+                "sha256:8c58f14adaa3b947daf26c19bc1e98c4e0702cdc31cf99153e6f06904d492bf8"
+            ],
+            "index": "pypi",
+            "markers": "python_version >= '3.7'",
+            "version": "==0.20.1"
         },
         "grpcio": {
             "hashes": [
@@ -628,11 +637,11 @@
         },
         "pyparsing": {
             "hashes": [
-                "sha256:32c7c0b711493c72ff18a981d24f28aaf9c1fb7ed5e9667c9e84e3db623bdbfb",
-                "sha256:ede28a1a32462f5a9705e07aea48001a08f7cf81a021585011deba701581a0db"
+                "sha256:a1bac0ce561155ecc3ed78ca94d3c9378656ad4c94c1270de543f621420f94ad",
+                "sha256:f9db75911801ed778fe61bb643079ff86601aca99fcae6345aa67292038fb742"
             ],
             "markers": "python_full_version >= '3.6.8'",
-            "version": "==3.1.1"
+            "version": "==3.1.2"
         },
         "python-dateutil": {
             "hashes": [
@@ -730,6 +739,15 @@
             "index": "pypi",
             "markers": "python_full_version >= '3.8.0'",
             "version": "==2.2.1"
+        },
+        "torchview": {
+            "hashes": [
+                "sha256:9db17f345321a991b756b985a6142f4d86af9f27e4235e2b1c909ce27553bfc9",
+                "sha256:e1a1fa9821b8f9dd88d59c029d6c9762c56ae1ac13b201bfbe377e138a669bfb"
+            ],
+            "index": "pypi",
+            "markers": "python_version >= '3.7'",
+            "version": "==0.2.6"
         },
         "torchvision": {
             "hashes": [

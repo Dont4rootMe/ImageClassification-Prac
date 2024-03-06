@@ -12,6 +12,8 @@ numpy = "*"
 tensorboard = "*"
 pandas = "*"
 tqdm = "*"
+graphviz = "*"
+torchview = "*"
 
 [dev-packages]
 ipykernel = "*"
